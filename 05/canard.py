@@ -1,0 +1,2 @@
+def quack():
+    print("Quack!!!!")
