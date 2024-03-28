@@ -1,0 +1,6 @@
+
+
+def eatbeans():
+    print("proooouuut")
+
+    
